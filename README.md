@@ -131,6 +131,6 @@ ai_receptionist_saas = {
 └── 👾
 <div align="center">
 
-"Venía de gestionar sistemas críticos en banca. Ahora construyo los míos."
+"Venía de gestionar sistemas críticos. Ahora construyo los míos."
 
 </div>
