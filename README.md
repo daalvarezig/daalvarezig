@@ -4,13 +4,10 @@
 
 <br/>
 
-<H1 align="center">
-  <font size="7"><strong>David Álvarez Iglesias</strong></font>
-  
-</H1>
 
-### Full Stack Developer · Sistemas Empresariales & Automatización
-📍 Madrid, España
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=👋+Hola%2C+soy+David;🚀+Full-Stack+Developer;🤖+Construyendo+SaaS+con+IA" alt="Typing SVG" />
+</div>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davidalvarezig/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/daalvarezig)
