@@ -1,18 +1,13 @@
-<div align="center">
-
-<img src="https://ishan-rest.vercel.app/svg/banner/dev/Full-Stack-Developer" alt="banner" width="100%"/>
-
-<br/>
 
 
 <div align="center">
+
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=👋+Hola%2C+soy+David;🚀+Full-Stack+Developer;🤖+Construyendo+SaaS+con+IA" alt="Typing SVG" />
-</div>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davidalvarezig/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/daalvarezig)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:daalvarezig@gmail.com)
-[![CV](https://img.shields.io/badge/CV-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://4geeksacademy.github.io/daalvarezig-CV/)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davidalvarezig/)
+  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/daalvarezig)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:daalvarezig@gmail.com)
+  [![CV](https://img.shields.io/badge/CV-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://4geeksacademy.github.io/daalvarezig-CV/)
 
 </div>
 
@@ -146,7 +141,7 @@ Actualmente en formación continua en desarrollo de software, tecnologías multi
 <div align="center">
 
 > ### "Venía de gestionar sistemas críticos. Ahora construyo los míos."
-> — **David Álvarez**
+>   <img src="./banner-david.svg" alt="Banner David con logo" width="40%" />
 
 <img src="https://ishan-rest.vercel.app/svg/banner/dev/TopyOps" alt="banner" width="100%"/>
 </div>
