@@ -1,136 +1,156 @@
 <div align="center">
 
-David Álvarez Iglesias
-Full Stack Developer | Sistemas Empresariales & Automatización
+<img src="https://ishan-rest.vercel.app/svg/banner/dev/Full-Stack-Developer" alt="banner" width="100%"/>
+
+<br/>
+
+<H1 align="center">
+  <font size="7"><strong>David Álvarez Iglesias</strong></font>
+  
+</H1>
+
+### Full Stack Developer · Sistemas Empresariales & Automatización
 📍 Madrid, España
 
-
-
-
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davidalvarezig/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/daalvarezig)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:daalvarezig@gmail.com)
+[![CV](https://img.shields.io/badge/CV-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://4geeksacademy.github.io/daalvarezig-CV/)
 
 </div>
 
-├──📂 About me
-name      : David Álvarez Iglesias
-role      : Full Stack Developer
-location  : Madrid, España 📍
-status    : 🟣 Open to work
-languages : Español 🇪🇸 (nativo) · English 🇬🇧 (técnico)
-background:
-  Especialista técnico-funcional con más de 13 años de experiencia en entornos financieros críticos, soporte de operaciones y mantenimiento de plataformas como Murex (Mx.3).
-  Perfil analítico, orientado a procesos y sistemas complejos, con experiencia en bases de datos, flujos operativos y soporte a unidades de negocio en entorno bancario.
-  Actualmente en formación continua en desarrollo de software, tecnologías multiplataforma y ecosistema Microsoft (Power Platform, automatización y análisis de datos).
-now:
-  - Construyendo productos full stack reales y automatizaciones con IA
-  - Formación en GS Desarrollo Aplicaciones Multiplataforma (UAX)
-fun_fact  : Venía de "sistemas críticos bancarios" → ahora aplico esa mentalidad a software en producción 🏦→💻
-├──📂 Links
-> Connect with me:
-> linkedin  -> https://www.linkedin.com/in/davidalvarezig/
-> email     -> daalvarezig@gmail.com
-> github    -> https://github.com/daalvarezig
-> cv        -> https://4geeksacademy.github.io/daalvarezig-CV/
-> trasteando -> https://trasteando.onrender.com/
-├──📂 My Toolbox
-🎨 Frontend
+---
 
+## 📂 Sobre mí
 
+🏦 **Experiencia**
 
+Especialista técnico-funcional con **más de 13 años** de experiencia en entornos financieros críticos, soporte de operaciones y mantenimiento de plataformas como **Murex (Mx.3)**. Perfil analítico, orientado a procesos y sistemas complejos, con experiencia en bases de datos, flujos operativos y soporte a unidades de negocio en entorno bancario.
 
+💻 **Ahora**
 
+Actualmente en formación continua en desarrollo de software, tecnologías multiplataforma y ecosistema Microsoft (Power Platform, automatización y análisis de datos). Construyendo productos full stack reales con IA.
 
-⚙️ Backend
+---
 
+🌍 **Madrid, España** &nbsp;|&nbsp; 💼 **Open to work** 🟣 &nbsp;|&nbsp; 🗣️ **Español 🇪🇸 · English 🇬🇧** &nbsp;|&nbsp; 🎓 **DAM · UAX** &nbsp;|&nbsp; ⚡ **Banca crítica → Software en producción**
 
+---
 
+## 🛠️ Mi Stack
 
-
-
-
-🗄️ Base de Datos
-
-
-
-💳 Pagos & APIs
-
-
-
-
-
-🛠️ Tools
-
-
-
-
-
-
-├──📂 Projects
-trasteando = {
-    "descripción" : "Plataforma de gestión de trasteros con geolocalización y pagos integrados",
-    "equipo"      : ["David · daalvarezig", "Irene · isanarmu", "Sergio · SergioC246"],
-    "stack"       : {
-        "frontend"  : "React",
-        "backend"   : "Flask + SQLAlchemy ORM",
-        "database"  : "PostgreSQL",
-        "auth"      : "JWT multi-rol → Cliente / Empresa / Admin",
-        "realtime"  : "Socket.IO + persistencia PostgreSQL",
-        "pagos"     : "Stripe",
-        "geo"       : "Google Maps Places API + Haversine (radio 20km)",
-        "ia"        : "OpenAI"
-    },
-    "deploy"      : "Render ✅",
-    "repo"        : "https://github.com/4GeeksAcademy/SP-124-TRASTEANDO",
-    "url"         : "https://trasteando.onrender.com/"
-}
-🌐 Ver Trasteando en producción → trasteando.onrender.com
-
-ai_receptionist_saas = {
-    "repo"        : "https://github.com/daalvarezig/ai-receptionist-saas",
-    "descripción" : "SaaS de recepcionista IA con landing page, autenticación y dashboard",
-    "stack"       : "React + Tailwind CSS + OpenAI",
-    "objetivo"    : "Automatizar recepción, conversaciones y operaciones con IA",
-    "status"      : "🚧 En desarrollo"
-}
-🤖 Ver AI Receptionist SaaS → github.com/daalvarezig/ai-receptionist-saas
-
-├──📂 GitHub Stats
 <div align="center">
 
+### 🎨 Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
+### ⚙️ Backend
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
 
+### 🗄️ Base de Datos
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
+### 💳 Pagos & APIs Externas
+![Stripe](https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=stripe&logoColor=white)
+![Google Maps](https://img.shields.io/badge/Google_Maps-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+
+### 🧰 Herramientas
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel_Avanzado-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
 </div>
 
-├──📂 Activity
+---
+
+## 🚀 Proyectos Destacados
+
+### 🏠 Trasteando
+> Plataforma de gestión de trasteros con geolocalización y pagos integrados
+
+⚛️ React &nbsp;·&nbsp; 🐍 Flask + SQLAlchemy ORM &nbsp;·&nbsp; 🐘 PostgreSQL &nbsp;·&nbsp; 🔐 JWT multi-rol &nbsp;·&nbsp; ⚡ Socket.IO &nbsp;·&nbsp; 💳 Stripe &nbsp;·&nbsp; 🗺️ Google Maps &nbsp;·&nbsp; 🤖 OpenAI
+
+**Equipo:** David · Irene · Sergio
+
+[![Repo](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/4GeeksAcademy/SP-124-TRASTEANDO)
+[![Live](https://img.shields.io/badge/Live-00C7B7?style=for-the-badge&logo=render&logoColor=white)](https://trasteando.onrender.com/)
+
+---
+
+### 🤖 AI Receptionist SaaS
+> SaaS de recepcionista IA con landing page, autenticación y dashboard
+
+⚛️ React + Tailwind CSS &nbsp;·&nbsp; 🤖 OpenAI &nbsp;·&nbsp; 🔐 JWT Auth &nbsp;·&nbsp; 📊 Dashboard analítico
+
+**Estado:** 🚧 En desarrollo activo
+
+[![Repo](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/daalvarezig/ai-receptionist-saas)
+
+---
+
+## 📊 GitHub Stats
+
 <div align="center">
 
-
+<img src="https://github-readme-stats.vercel.app/api?username=daalvarezig&show_icons=true&theme=tokyonight&hide_border=true&locale=es" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daalvarezig&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 
 </div>
 
-├──📂 Dynamic Views
+---
+
+## 🔥 Actividad
+
 <div align="center">
 
-
-
-
-
-
+![GitHub Streak](https://streak-stats.demolab.com?user=daalvarezig&theme=tokyonight&hide_border=true&locale=es)
 
 </div>
 
-├──📂 Dev Quote
+---
+
+## 👁️ Vistas
+
 <div align="center">
 
+<img src="https://dynamic-repo-badges.vercel.app/svg/count/5/Profile%20Views/daalvarezig" alt="Profile Views"/>
 
+<img src="https://dynamic-repo-badges.vercel.app/svg/count/7/Trasteando%20Views/SP-124-TRASTEANDO" alt="Trasteando Views"/>
+
+<img src="https://dynamic-repo-badges.vercel.app/svg/count/6/AI%20Receptionist%20Views/ai-receptionist-saas" alt="AI Receptionist Views"/>
 
 </div>
 
-└── 👾
+---
+
+## 🎮 My GitHub Contributions Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/daalvarezig/daalvarezig/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/daalvarezig/daalvarezig/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/daalvarezig/daalvarezig/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+---
+
+## 💬 Dev Quote
+
 <div align="center">
 
-"Venía de gestionar sistemas críticos. Ahora construyo los míos."
+> ### "Venía de gestionar sistemas críticos. Ahora construyo los míos."
+> — **David Álvarez**
 
+<img src="https://ishan-rest.vercel.app/svg/banner/dev/TopyOps" alt="banner" width="100%"/>
 </div>
+
