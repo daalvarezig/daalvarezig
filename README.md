@@ -141,6 +141,7 @@ Actualmente en formación continua en desarrollo de software, tecnologías multi
 <div align="center">
 
 > ### "Venía de gestionar sistemas críticos. Ahora construyo los míos."
+> <img src="./banner-frase.svg" alt="Banner David con frase" width="40%" />
 >   <img src="./banner-david.svg" alt="Banner David con logo" width="40%" />
 
 <img src="https://ishan-rest.vercel.app/svg/banner/dev/TopyOps" alt="banner" width="100%"/>
