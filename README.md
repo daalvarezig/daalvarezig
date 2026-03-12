@@ -111,6 +111,42 @@ SaaS de **recepcionista IA** para negocios con landing, autenticación y dashboa
 
 [![Repo](https://img.shields.io/badge/Repositorio-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/daalvarezig/ai-receptionist-saas)
 
+## 🚀 Proyectos Destacados
+
+---
+
+### 🏠 Trasteando
+
+<p align="center">
+  <img src="assets/trasteando-demo.png" width="100%">
+</p>
+
+Plataforma de gestión de trasteros con **geolocalización, pagos y mensajería en tiempo real**.
+
+⚛️ React · 🐍 Flask · 🐘 PostgreSQL · ⚡ Socket.IO · 💳 Stripe · 🗺️ Google Maps · 🤖 OpenAI
+
+**Equipo:** David · Irene · Sergio
+
+[![Repo](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/4GeeksAcademy/SP-124-TRASTEANDO)
+[![Live](https://img.shields.io/badge/Live-00C7B7?style=for-the-badge&logo=render&logoColor=white)](https://trasteando.onrender.com/)
+
+---
+
+### 🤖 AI Receptionist SaaS
+
+<p align="center">
+  <img src="assets/ai-receptionist-banner.png" width="100%">
+</p>
+
+SaaS de **recepcionista IA** que automatiza la atención al cliente, gestión de citas y conversaciones.
+
+⚛️ React · 🤖 OpenAI · 🔐 JWT · 💬 WhatsApp API · 🗄 Supabase · ⚡ n8n
+
+**Estado:** 🚧 En desarrollo activo
+
+[![Repo](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/daalvarezig/ai-receptionist-saas)
+
+---
 <!--
 ## 🚀 Proyectos Destacados
 
