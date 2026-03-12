@@ -135,10 +135,10 @@ Plataforma de gestión de trasteros con **geolocalización, pagos y mensajería 
 ### 🤖 AI Receptionist SaaS
 
 <p align="center">
-  <img src="assets/ai-receptionist-banner.png" width="100%">
+  <img src="assets/ai-receptionist-banner.png" width="700">
 </p>
 
-SaaS de **recepcionista IA** que automatiza la atención al cliente, gestión de citas y conversaciones.
+SaaS de recepcionista IA que automatiza la atención al cliente, gestión de citas y conversaciones.
 
 ⚛️ React · 🤖 OpenAI · 🔐 JWT · 💬 WhatsApp API · 🗄 Supabase · ⚡ n8n
 
