@@ -27,7 +27,7 @@ Actualmente en formación continua en desarrollo de software, tecnologías multi
 
 ---
 
-🌍 **Madrid, España** &nbsp;|&nbsp; 💼 **Open to work** 🟣 &nbsp;|&nbsp; 🗣️ **Español 🇪🇸 · English 🇬🇧** &nbsp;|&nbsp; 🎓 **DAM · UAX** &nbsp;|&nbsp; ⚡ **Banca crítica → Software en producción**
+🌍 **Madrid, España** &nbsp;|&nbsp; 💼 **Open to work** 🟣 &nbsp;|&nbsp; 🗣️ **Español 🇪🇸 · English 🇬🇧** &nbsp;|&nbsp; 🎓 **DAM · UAX** &nbsp;|&nbsp; ⚡ **Software en producción**
 
 ---
 
