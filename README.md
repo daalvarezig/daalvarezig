@@ -31,11 +31,9 @@ Actualmente en formación continua en desarrollo de software, tecnologías multi
 
 ---
 
-## 🧠 Tech I Work With
+## 🧠 Mi stack tecnologico
 
 <div align="center">
-
-## 🧠 Tech I Work With
 
 ### ⚙️ Core / Backend
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -74,7 +72,46 @@ Actualmente en formación continua en desarrollo de software, tecnologías multi
 </div>
 
 ---
+## 🚀 Proyectos Destacados
 
+<p align="center">
+
+<a href="https://github.com/4GeeksAcademy/SP-124-TRASTEANDO">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=4GeeksAcademy&repo=SP-124-TRASTEANDO&theme=tokyonight" />
+</a>
+
+<a href="https://github.com/daalvarezig/ai-receptionist-saas">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=daalvarezig&repo=ai-receptionist-saas&theme=tokyonight" />
+</a>
+
+</p>
+
+---
+
+### 🏠 Trasteando
+
+Plataforma de gestión de trasteros con **geolocalización, pagos y mensajería en tiempo real**.
+
+⚛️ React · 🐍 Flask · 🐘 PostgreSQL · 🔐 JWT multi-rol · ⚡ Socket.IO · 💳 Stripe · 🗺️ Google Maps · 🤖 OpenAI
+
+**Equipo:** David · Irene · Sergio  
+
+[![Repo](https://img.shields.io/badge/Repositorio-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/4GeeksAcademy/SP-124-TRASTEANDO)
+[![Live](https://img.shields.io/badge/Demo-Live-00C7B7?style=for-the-badge&logo=render)](https://trasteando.onrender.com/)
+
+---
+
+### 🤖 AI Receptionist SaaS
+
+SaaS de **recepcionista IA** para negocios con landing, autenticación y dashboard analítico.
+
+⚛️ React · 🎨 Tailwind · 🤖 OpenAI · 🔐 JWT · 📊 Dashboard
+
+🚧 **Estado:** En desarrollo activo
+
+[![Repo](https://img.shields.io/badge/Repositorio-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/daalvarezig/ai-receptionist-saas)
+
+<!--
 ## 🚀 Proyectos Destacados
 
 ### 🏠 Trasteando
@@ -99,7 +136,7 @@ Actualmente en formación continua en desarrollo de software, tecnologías multi
 [![Repo](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/daalvarezig/ai-receptionist-saas)
 
 ---
-<!--
+
 
 ## 📊 GitHub Stats
 
