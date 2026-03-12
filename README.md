@@ -72,8 +72,6 @@ Actualmente en formación continua en desarrollo de software, tecnologías multi
 </div>
 
 ---
-## 🚀 Proyectos
-
 <table>
 <tr>
 
@@ -81,14 +79,11 @@ Actualmente en formación continua en desarrollo de software, tecnologías multi
 
 ### 🏠 Trasteando
 
-<img src="assets/trasteando-demo.png" width="500"/>
+<img src="assets/trasteando-banner.png" width="520"/>
 
 Plataforma de gestión de trasteros con geolocalización, pagos y mensajería en tiempo real.
 
-⚛️ React · 🐍 Flask · 🐘 PostgreSQL · ⚡ Socket.IO · 💳 Stripe · 🗺️ Google Maps · 🤖 OpenAI
-
-[![Repo](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/4GeeksAcademy/SP-124-TRASTEANDO)
-[![Live](https://img.shields.io/badge/Live-00C7B7?style=for-the-badge&logo=render&logoColor=white)](https://trasteando.onrender.com/)
+⚛️ React · Flask · PostgreSQL · Socket.IO · Stripe · Google Maps · OpenAI
 
 </td>
 
@@ -96,15 +91,11 @@ Plataforma de gestión de trasteros con geolocalización, pagos y mensajería en
 
 ### 🤖 AI Receptionist SaaS
 
-<img src="assets/ai-receptionist-banner.png" width="500"/>
+<img src="assets/ai-receptionist-banner.png" width="520"/>
 
-SaaS de recepcionista IA que automatiza la atención al cliente, gestión de citas y conversaciones.
+SaaS de recepcionista IA que automatiza atención al cliente y gestión de citas.
 
-⚛️ React · 🤖 OpenAI · 🔐 JWT · 💬 WhatsApp API · 🗄 Supabase · ⚡ n8n
-
-**Estado:** 🚧 En desarrollo activo
-
-[![Repo](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/daalvarezig/ai-receptionist-saas)
+⚛️ React · OpenAI · JWT · WhatsApp API · Supabase · n8n
 
 </td>
 
