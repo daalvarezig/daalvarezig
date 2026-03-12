@@ -72,44 +72,32 @@ Actualmente en formación continua en desarrollo de software, tecnologías multi
 </div>
 
 ---
-## 🚀 Proyectos Destacados
-
-<p align="center">
-
-<a href="https://github.com/4GeeksAcademy/SP-124-TRASTEANDO">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=4GeeksAcademy&repo=SP-124-TRASTEANDO&theme=tokyonight" />
-</a>
-
-<a href="https://github.com/daalvarezig/ai-receptionist-saas">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=daalvarezig&repo=ai-receptionist-saas&theme=tokyonight" />
-</a>
-
-</p>
-
----
+<td width="50%" align="center">
 
 ### 🏠 Trasteando
 
-Plataforma de gestión de trasteros con **geolocalización, pagos y mensajería en tiempo real**.
+<img src="assets/trasteando-demo.png" width="550" height="275"/>
 
-⚛️ React · 🐍 Flask · 🐘 PostgreSQL · 🔐 JWT multi-rol · ⚡ Socket.IO · 💳 Stripe · 🗺️ Google Maps · 🤖 OpenAI
+Plataforma de gestión de trasteros con geolocalización, pagos y mensajería en tiempo real.
 
-**Equipo:** David · Irene · Sergio  
+⚛️ React · Flask · PostgreSQL · Socket.IO · Stripe · Google Maps · OpenAI
 
-[![Repo](https://img.shields.io/badge/Repositorio-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/4GeeksAcademy/SP-124-TRASTEANDO)
-[![Live](https://img.shields.io/badge/Demo-Live-00C7B7?style=for-the-badge&logo=render)](https://trasteando.onrender.com/)
+</td>
 
----
+<td width="50%" align="center">
 
 ### 🤖 AI Receptionist SaaS
 
-SaaS de **recepcionista IA** para negocios con landing, autenticación y dashboard analítico.
+<img src="assets/ai-receptionist-banner.png" width="550" height="275"/>
 
-⚛️ React · 🎨 Tailwind · 🤖 OpenAI · 🔐 JWT · 📊 Dashboard
+SaaS de recepcionista IA que automatiza la atención al cliente, gestión de citas y conversaciones.
 
-🚧 **Estado:** En desarrollo activo
+⚛️ React · OpenAI · JWT · WhatsApp API · Supabase · n8n
 
-[![Repo](https://img.shields.io/badge/Repositorio-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/daalvarezig/ai-receptionist-saas)
+</td>
+
+</tr>
+</table>
 
 ## 🚀 Proyectos
 
