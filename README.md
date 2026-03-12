@@ -136,7 +136,7 @@ SaaS de recepcionista IA que automatiza atención al cliente, gestión de citas 
 </tr>
 </table>
 ---
-<!--
+
 ## 🚀 Proyectos Destacados
 
 <td width="50%" align="center">
