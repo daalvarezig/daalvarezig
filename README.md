@@ -18,7 +18,8 @@
 
 🏦 **Experiencia**
 
-Especialista técnico-funcional con **más de 13 años** de experiencia en entornos financieros críticos, soporte de operaciones y mantenimiento de plataformas como **Murex (Mx.3)**. Perfil analítico, orientado a procesos y sistemas complejos, con experiencia en bases de datos, flujos operativos y soporte a unidades de negocio en entorno bancario.
+Full Stack Developer con foco en aplicaciones data-driven y desarrollo de soluciones basadas en IA. Recientemente he trabajado en distintos proyectos que integran:
+React, Python, APIs, bases de datos y servicios cloud, desarrollando funcionalidades completas desde el backend hasta el frontend y construyendo productos funcionales end-to-end.
 
 💻 **Ahora**
 
@@ -89,6 +90,7 @@ Actualmente en formación continua en desarrollo de software, tecnologías multi
 [![Repo](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/daalvarezig/ai-receptionist-saas)
 
 ---
+<!--
 
 ## 📊 GitHub Stats
 
@@ -110,6 +112,7 @@ Actualmente en formación continua en desarrollo de software, tecnologías multi
 </div>
 
 ---
+-->
 
 ## 👁️ Vistas
 
@@ -144,6 +147,10 @@ Actualmente en formación continua en desarrollo de software, tecnologías multi
 > ### "Venía de gestionar sistemas críticos. Ahora construyo los míos."
 > <img src="./banner-david.svg" alt="Banner David con logo" width="40%" />
 
+<!--
+
 <img src="https://ishan-rest.vercel.app/svg/banner/dev/TopyOps" alt="banner" width="100%"/>
 </div>
+
+-->
 
