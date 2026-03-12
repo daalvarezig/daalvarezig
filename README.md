@@ -34,56 +34,34 @@ Actualmente en formación continua en desarrollo de software, tecnologías multi
 ## 🧠 Tech I Work With
 
 ### ⚙️ Core / Backend
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python)
-![Flask](https://img.shields.io/badge/Flask-black?logo=flask)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
 
 ### 🎨 Frontend
-![React](https://img.shields.io/badge/React-20232A?logo=react)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### 🤖 AI
-![OpenAI](https://img.shields.io/badge/OpenAI-black)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 
 ### 🌐 External APIs
-![Stripe](https://img.shields.io/badge/Stripe-626CD9?logo=stripe)
-![Google Maps](https://img.shields.io/badge/Google%20Maps-4285F4?logo=googlemaps)
+![Stripe](https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=stripe&logoColor=white)
+![Google Maps](https://img.shields.io/badge/Google_Maps-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white)
 
 ### ⚡ Realtime / Data
-![Socket.IO](https://img.shields.io/badge/Socket.IO-black?logo=socketdotio)
-![APIs](https://img.shields.io/badge/APIs-005571)
-![Data](https://img.shields.io/badge/Data--Driven-0A66C2)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-black?style=for-the-badge&logo=socketdotio&logoColor=white)
+![APIs](https://img.shields.io/badge/APIs-005571?style=for-the-badge)
+![Data](https://img.shields.io/badge/Data--Driven-0A66C2?style=for-the-badge)
 
 ### 🧰 Tools & Analytics
-![Git](https://img.shields.io/badge/Git-F05032?logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi)
-![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoftexcel)
-
-
-## ⚙️ Stack
-
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python)
-![React](https://img.shields.io/badge/-React-20232A?logo=react)
-![Flask](https://img.shields.io/badge/-Flask-black?logo=flask)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?logo=postgresql)
-![OpenAI](https://img.shields.io/badge/-OpenAI-black)
-![Stripe](https://img.shields.io/badge/-Stripe-626CD9?logo=stripe)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git)
-
-## 🧠 Tech I Work With
-
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python)
-![React](https://img.shields.io/badge/React-20232A?logo=react)
-![Flask](https://img.shields.io/badge/Flask-black?logo=flask)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql)
-![OpenAI](https://img.shields.io/badge/OpenAI-black)
-![APIs](https://img.shields.io/badge/APIs-005571)
-![Data](https://img.shields.io/badge/Data--Driven-0A66C2)
-
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,react,flask,postgres,git,github,js,html,css" />
 </p>
