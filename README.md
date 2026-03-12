@@ -118,7 +118,7 @@ SaaS de **recepcionista IA** para negocios con landing, autenticación y dashboa
 ### 🏠 Trasteando
 
 <p align="center">
-  <img src="assets/trasteando-demo.png" width="100%">
+  <img src="assets/trasteando-demo.png" width="350">
 </p>
 
 Plataforma de gestión de trasteros con **geolocalización, pagos y mensajería en tiempo real**.
@@ -126,6 +126,7 @@ Plataforma de gestión de trasteros con **geolocalización, pagos y mensajería 
 ⚛️ React · 🐍 Flask · 🐘 PostgreSQL · ⚡ Socket.IO · 💳 Stripe · 🗺️ Google Maps · 🤖 OpenAI
 
 **Equipo:** David · Irene · Sergio
+
 
 [![Repo](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/4GeeksAcademy/SP-124-TRASTEANDO)
 [![Live](https://img.shields.io/badge/Live-00C7B7?style=for-the-badge&logo=render&logoColor=white)](https://trasteando.onrender.com/)
@@ -135,7 +136,7 @@ Plataforma de gestión de trasteros con **geolocalización, pagos y mensajería 
 ### 🤖 AI Receptionist SaaS
 
 <p align="center">
-  <img src="assets/ai-receptionist-banner.png" width="700">
+  <img src="assets/ai-receptionist-banner.png" width="350">
 </p>
 
 SaaS de recepcionista IA que automatiza la atención al cliente, gestión de citas y conversaciones.
