@@ -35,6 +35,8 @@ Actualmente en formación continua en desarrollo de software, tecnologías multi
 
 <div align="center">
 
+## 🧠 Tech I Work With
+
 ### ⚙️ Core / Backend
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask&logoColor=white)
@@ -42,9 +44,6 @@ Actualmente en formación continua en desarrollo de software, tecnologías multi
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
 
 ### 🎨 Frontend
-
-<img src="https://skillicons.dev/icons?i=react,JavaScript,html,css" />
-
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -53,28 +52,20 @@ Actualmente en formación continua en desarrollo de software, tecnologías multi
 ### 🤖 AI
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 
-<img src="https://skillicons.dev/icons?i=openai" />
-
 ### 🌐 External APIs
 ![Stripe](https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=stripe&logoColor=white)
 ![Google Maps](https://img.shields.io/badge/Google_Maps-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white)
-
-<img src="https://skillicons.dev/icons?i=Stripe-626CD9,Google Maps-4285F4" />
 
 ### ⚡ Realtime / Data
 ![Socket.IO](https://img.shields.io/badge/Socket.IO-black?style=for-the-badge&logo=socketdotio&logoColor=white)
 ![APIs](https://img.shields.io/badge/APIs-005571?style=for-the-badge)
 ![Data](https://img.shields.io/badge/Data--Driven-0A66C2?style=for-the-badge)
 
-<img src="https://skillicons.dev/icons?i=Socket.IO-black,APIs-005571,Data--Driven" />
-
 ### 🧰 Tools & Analytics
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-
-<img src="https://skillicons.dev/icons?i=Git-F05032,GitHub-181717,Power BI-F2C811,Excel-217346" />
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,react,flask,postgres,git,github,js,html,css" />
