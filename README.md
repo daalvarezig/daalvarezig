@@ -72,37 +72,11 @@ Actualmente en formación continua en desarrollo de software, tecnologías multi
 </div>
 
 ---
-<td width="50%" align="center">
-
-### 🏠 Trasteando
-
-<img src="assets/trasteando-demo.png" width="550" height="275"/>
-
-Plataforma de gestión de trasteros con geolocalización, pagos y mensajería en tiempo real.
-
-⚛️ React · Flask · PostgreSQL · Socket.IO · Stripe · Google Maps · OpenAI
-
-</td>
-
-<td width="50%" align="center">
-
-### 🤖 AI Receptionist SaaS
-
-<img src="assets/ai-receptionist-banner.png" width="550" height="275"/>
-
-SaaS de recepcionista IA que automatiza la atención al cliente, gestión de citas y conversaciones.
-
-⚛️ React · OpenAI · JWT · WhatsApp API · Supabase · n8n
-
-</td>
-
-</tr>
-</table>
-
 ## 🚀 Proyectos
 
 <table>
 <tr>
+
 <td width="50%" align="center">
 
 ### 🏠 Trasteando
@@ -124,7 +98,7 @@ Plataforma de gestión de trasteros con geolocalización, pagos y mensajería en
 
 <img src="assets/ai-receptionist-banner.png" width="500"/>
 
-SaaS de recepcionista IA que automatiza atención al cliente, gestión de citas y conversaciones.
+SaaS de recepcionista IA que automatiza la atención al cliente, gestión de citas y conversaciones.
 
 ⚛️ React · 🤖 OpenAI · 🔐 JWT · 💬 WhatsApp API · 🗄 Supabase · ⚡ n8n
 
@@ -133,40 +107,12 @@ SaaS de recepcionista IA que automatiza atención al cliente, gestión de citas 
 [![Repo](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/daalvarezig/ai-receptionist-saas)
 
 </td>
-</tr>
-</table>
----
-
-## 🚀 Proyectos Destacados
-
-<td width="50%" align="center">
-
-### 🏠 Trasteando
-
-<img src="assets/trasteando-demo.png" width="550" height="275"/>
-
-Plataforma de gestión de trasteros con geolocalización, pagos y mensajería en tiempo real.
-
-⚛️ React · Flask · PostgreSQL · Socket.IO · Stripe · Google Maps · OpenAI
-
-</td>
-
-<td width="50%" align="center">
-
-### 🤖 AI Receptionist SaaS
-
-<img src="assets/ai-receptionist-banner.png" width="550" height="275"/>
-
-SaaS de recepcionista IA que automatiza la atención al cliente, gestión de citas y conversaciones.
-
-⚛️ React · OpenAI · JWT · WhatsApp API · Supabase · n8n
-
-</td>
 
 </tr>
 </table>
 ---
 
+<!--
 
 ## 📊 GitHub Stats
 
