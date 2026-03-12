@@ -30,6 +30,64 @@ Actualmente en formación continua en desarrollo de software, tecnologías multi
 🌍 **Madrid, España** &nbsp;|&nbsp; 💼 **Open to work** 🟣 &nbsp;|&nbsp; 🗣️ **Español 🇪🇸 · English 🇬🇧** &nbsp;|&nbsp; 🎓 **DAM · UAX** &nbsp;|&nbsp; ⚡ **Banca crítica → Software en producción**
 
 ---
+## 🛠️ Tech Stack
+
+**Frontend**
+
+![React](https://img.shields.io/badge/react-20232A?logo=react)
+![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?logo=javascript)
+![HTML5](https://img.shields.io/badge/html5-E34F26?logo=html5)
+![CSS3](https://img.shields.io/badge/css3-1572B6?logo=css3)
+
+**Backend**
+
+![Python](https://img.shields.io/badge/python-3776AB?logo=python)
+![Flask](https://img.shields.io/badge/flask-black?logo=flask)
+![SQLAlchemy](https://img.shields.io/badge/sqlalchemy-red)
+![Socket.io](https://img.shields.io/badge/socket.io-black?logo=socketdotio)
+
+**Database**
+
+![PostgreSQL](https://img.shields.io/badge/postgresql-316192?logo=postgresql)
+
+**AI & APIs**
+
+![OpenAI](https://img.shields.io/badge/openai-black)
+![Stripe](https://img.shields.io/badge/stripe-626CD9?logo=stripe)
+![Google Maps](https://img.shields.io/badge/google_maps-4285F4?logo=googlemaps)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/git-F05032?logo=git)
+![GitHub](https://img.shields.io/badge/github-black?logo=github)
+![Power BI](https://img.shields.io/badge/powerbi-F2C811?logo=powerbi)
+![Excel](https://img.shields.io/badge/excel-217346?logo=microsoftexcel)
+
+
+## ⚙️ Stack
+
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python)
+![React](https://img.shields.io/badge/-React-20232A?logo=react)
+![Flask](https://img.shields.io/badge/-Flask-black?logo=flask)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?logo=postgresql)
+![OpenAI](https://img.shields.io/badge/-OpenAI-black)
+![Stripe](https://img.shields.io/badge/-Stripe-626CD9?logo=stripe)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git)
+
+## 🧠 Tech I Work With
+
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python)
+![React](https://img.shields.io/badge/React-20232A?logo=react)
+![Flask](https://img.shields.io/badge/Flask-black?logo=flask)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql)
+![OpenAI](https://img.shields.io/badge/OpenAI-black)
+![APIs](https://img.shields.io/badge/APIs-005571)
+![Data](https://img.shields.io/badge/Data--Driven-0A66C2)
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,react,flask,postgres,git,github,js,html,css" />
+</p>
+
 
 ## 🛠️ Mi Stack
 
