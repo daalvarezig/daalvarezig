@@ -30,6 +30,39 @@ Actualmente en formación continua en desarrollo de software, tecnologías multi
 🌍 **Madrid, España** &nbsp;|&nbsp; 💼 **Open to work** 🟣 &nbsp;|&nbsp; 🗣️ **Español 🇪🇸 · English 🇬🇧** &nbsp;|&nbsp; 🎓 **DAM · UAX** &nbsp;|&nbsp; ⚡ **Banca crítica → Software en producción**
 
 ---
+
+## 🧠 Tech I Work With
+
+### ⚙️ Core / Backend
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-black?logo=flask&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?logo=sqlalchemy&logoColor=white)
+
+### 🎨 Frontend
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+
+### 🤖 AI
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white)
+
+### 🌐 External APIs
+![Stripe](https://img.shields.io/badge/Stripe-626CD9?logo=stripe&logoColor=white)
+![Google Maps](https://img.shields.io/badge/Google_Maps-4285F4?logo=googlemaps&logoColor=white)
+
+### ⚡ Realtime / Data Layer
+![Socket.IO](https://img.shields.io/badge/Socket.IO-black?logo=socketdotio&logoColor=white)
+
+### 🧰 Tools & Analytics
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoftexcel&logoColor=white)
+
+
+
 ## 🛠️ Tech Stack
 
 **Frontend**
