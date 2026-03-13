@@ -79,7 +79,7 @@ Actualmente en formación continua en desarrollo de software, tecnologías multi
 ### 🏠 Trasteando
 
 <p align="center">
-  <img src="assets/trasteando-demo.png" width="50%">
+  <img src="assets/trasteando_1600.png" width="50%">
 </p>
 
 Plataforma de gestión de trasteros con **geolocalización, pagos y mensajería en tiempo real**.
